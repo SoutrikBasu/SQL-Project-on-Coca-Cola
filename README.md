@@ -11,4 +11,4 @@ Used MySQL to query the business questions and EXCEL to determine the charts.
 - dataset.xlsx (Real Dataset on which project analysis were performed)
 - CocaCola Research Project.mp4 (Descriptive audio/visual of the project)
 - CocaColaDB.sql (MySQL file)
-- FinalPPT.opd (Powerpoint presentation of the project)
+- Final PPT.pptx (Powerpoint presentation of the project)
